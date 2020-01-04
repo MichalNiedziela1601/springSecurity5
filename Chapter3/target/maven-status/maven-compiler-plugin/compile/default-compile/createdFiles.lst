@@ -1,0 +1,5 @@
+main\java\com\apress\pss\springsecurity\controller\UserController.class
+main\java\com\apress\pss\springsecurity\configuration\SpringSecurityInitializer.class
+main\java\com\apress\pss\springsecurity\configuration\UserConfiguration.class
+main\java\com\apress\pss\springsecurity\configuration\SecurityConfiguration.class
+main\java\com\apress\pss\springsecurity\configuration\AppInitializer.class
